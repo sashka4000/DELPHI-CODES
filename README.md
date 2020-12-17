@@ -1,2 +1,2 @@
 # DELPHI-CODES
-Some Delphi codeы
+Some Delphi codes
